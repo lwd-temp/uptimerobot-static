@@ -16,7 +16,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'ur1185790-63cd3a843ce0567a00507cf8',
+    'ur1430636-9b547cd238b2367eb4723499',
   ],
 
   // 是否显示监测站点的链接
@@ -36,6 +36,10 @@ window.Config = {
     {
       text: '导航页',
       url: 'https://navi.lwd-temp.top/'
+    },
+    {
+      text: '捐赠',
+      url: 'https://cdn.jsdelivr.net/gh/lwd-temp/lwd-temp/afd_qr.jpg'
     }
   ]
 };
