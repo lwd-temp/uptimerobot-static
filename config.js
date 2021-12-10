@@ -30,6 +30,10 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
+      text: '帮助',
+      url: 'https://jekyll.lwd-temp.top/notice/about-status/'
+    },
+    {
       text: '本站主页',
       url: 'https://www.lwd-temp.top'
     },
