@@ -43,7 +43,7 @@ window.Config = {
     },
     {
       text: '捐赠',
-      url: 'https://cdn.jsdelivr.net/gh/lwd-temp/lwd-temp/afd_qr.jpg'
+      url: 'https://donate.lwd-temp.top/'
     }
   ]
 };
