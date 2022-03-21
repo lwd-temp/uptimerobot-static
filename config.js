@@ -42,8 +42,8 @@ window.Config = {
       url: 'https://navi.lwd-temp.top/'
     },
     {
-      text: '捐赠',
-      url: 'https://donate.lwd-temp.top/'
+      text: 'UptimeRobot状态页',
+      url: 'https://stats.uptimerobot.com/MK4Y2S2kpo'
     }
   ]
 };
