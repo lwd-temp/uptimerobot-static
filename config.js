@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Uptime Status',
+  SiteName: 'lwd-temp.top服务状态',
 
   // 站点链接
   SiteUrl: 'https://www.lwd-temp.top',
